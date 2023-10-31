@@ -4,6 +4,7 @@
 Primero la deben descargar y descomprimir
 
 Luego tienen que acceder a su navegador a extensiones
+
 ![Acceder a extensiones](https://github.com/PHPostApp/PHPostExtension/assets/25780715/058fb7dd-4ba1-4ecc-8c64-7bbf0399167c)
 
 Activan el "**modo desarrollador**"
